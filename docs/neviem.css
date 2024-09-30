@@ -19,7 +19,9 @@ body {
 .ney img {
     text-align: center;/* Centering the container's content (the image) */
     border-radius: 15px;
-    margin-right:725px ;
+    margin-right:400px ;
+    height: 500px;
+    border: 5px solid black;
 }
 
 img {
@@ -31,30 +33,53 @@ img {
 
 p{
     
-        font-size: 18px;
-        line-height: 1.6; /* Increase line spacing for better readability */
+        
+        line-height: 1.75; 
     
 }
 
 .kariera img {
-  
-    margin-right: 1000px;
+    border: 5px solid black;
+    margin-right: 900px;
     border-radius: 15px;
 }
 
 .ucl img {
-
-    margin-right: 475px;
-    border-radius: 15px;
-    height: 600px; width: 450px; ;
+    border: 5px solid black;
+    margin-right: 150px;
+    border-radius: 10px;
+    height: 625px; width: 450px; ;
 }
 .zivot{
 
-font-size: 1.3rem;
 
+margin-left: 200PX;
 }
 
 .uspech{
-font-size: 1.3rem;
+
+margin-left: 200px;
+}
+
+.z{
+margin-left: 350px;
+color: greenyellow;
+
+}
+
+.u{
+color: greenyellow;
+margin-left: 700px;
+
+}
+
+.pr{
+    margin-left: 150px;
+    color: greenyellow;
+}
+
+.zac{
+color: lawngreen;
+
 
 }
